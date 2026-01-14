@@ -75,7 +75,7 @@
         "android": "market://details?id=com.lw.yyumobile"
       },
       "conditions": {
-        "countries": ["tr"],
+        "countries": ["TR"],
         "languages": [
           "tr"
         ],
