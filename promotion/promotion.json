@@ -9,8 +9,6 @@
     {
       "id": "vocab",
       "enabled": true,
-      "priority": 10,
-
       "texts": {
         "title": {
           "en": "📘 Daily Vocabulary",
@@ -28,24 +26,67 @@
           "de": "Herunterladen"
         }
       },
-
       "media": {
         "type": "image",
-        "url": "https://github.com/lwappsandgames/lwappsandgames.github.io/blob/main/promotion/files/vocab/image.jpg?raw=true",
-        "aspectRatio": "16:9",
-        "maxSizeMb": 5
+        "url": "https://github.com/lwappsandgames/lwappsandgames.github.io/blob/main/promotion/files/vocab/image.jpg?raw=true"
       },
-
       "store": {
-        "android": "market://details?id=com.example.vocab"
+        "android": "market://details?id=com.lw.vocab"
       },
-
       "conditions": {
         "countries": [],
-        "languages": ["tr", "en", "de"],
-        "minAppVersion": 12,
-        "connection": ["WIFI", "UNMETERED"],
-        "platforms": ["android"]
+        "languages": [
+          "tr",
+          "en",
+          "de"
+        ],
+        "minAppVersion": 8,
+        "connection": [
+          "WIFI",
+          "UNMETERED"
+        ],
+        "platforms": [
+          "android"
+        ]
+      }
+    },
+    {
+      "id": "yyu",
+      "enabled": true,
+      "texts": {
+        "title": {
+          "en": "📘 YYU Announcements",
+          "tr": "📘 YYU Duyuru Uygulaması"
+        },
+        "description": {
+          "tr": "YYU Duyuru Uygulaması"
+        },
+        "cta": {
+          "en": "Download",
+          "tr": "İndir",
+          "de": "Herunterladen"
+        }
+      },
+      "media": {
+        "type": "image",
+        "url": "https://muhammedenesbicen.github.io/images/yyumobil.png"
+      },
+      "store": {
+        "android": "market://details?id=com.lw.yyumobile"
+      },
+      "conditions": {
+        "countries": ["tr"],
+        "languages": [
+          "tr"
+        ],
+        "minAppVersion": 8,
+        "connection": [
+          "WIFI",
+          "UNMETERED"
+        ],
+        "platforms": [
+          "android"
+        ]
       }
     }
   ]
