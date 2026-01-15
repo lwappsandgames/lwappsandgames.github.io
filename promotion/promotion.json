@@ -35,12 +35,7 @@
       },
       "conditions": {
         "countries": [],
-        "languages": [
-          "tr",
-          "en",
-          "de"
-        ],
-        "minAppVersion": 8,
+        "languages": [],
         "connection": [
           "WIFI",
           "UNMETERED"
@@ -79,7 +74,6 @@
         "languages": [
           "tr"
         ],
-        "minAppVersion": 8,
         "connection": [
           "WIFI",
           "UNMETERED"
