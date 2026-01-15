@@ -44,44 +44,6 @@
           "android"
         ]
       }
-    },
-    {
-      "id": "yyu",
-      "enabled": true,
-      "texts": {
-        "title": {
-          "en": "📘 YYU Announcements",
-          "tr": "📘 YYU Duyuru Uygulaması"
-        },
-        "description": {
-          "tr": "YYU Duyuru Uygulaması"
-        },
-        "cta": {
-          "en": "Download",
-          "tr": "İndir",
-          "de": "Herunterladen"
-        }
-      },
-      "media": {
-        "type": "image",
-        "url": "https://muhammedenesbicen.github.io/images/yyumobil.png"
-      },
-      "store": {
-        "android": "market://details?id=com.lw.yyumobile"
-      },
-      "conditions": {
-        "countries": ["TR"],
-        "languages": [
-          "tr"
-        ],
-        "connection": [
-          "WIFI",
-          "UNMETERED"
-        ],
-        "platforms": [
-          "android"
-        ]
-      }
     }
   ]
 }
