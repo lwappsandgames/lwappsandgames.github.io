@@ -7,23 +7,66 @@
   },
   "promotions": [
     {
-      "id": "vocab",
+      "id": "com.lw.vocab",
       "enabled": true,
+      "version": 1,
       "texts": {
         "title": {
-          "en": "📘 Daily Vocabulary",
-          "tr": "📘 Günlük Kelime",
-          "de": "📘 Täglicher Wortschatz"
+          "en": "📘 Daily Vocabulary Feed",
+          "ar": "📘 تغذية المفردات اليومية",
+          "ckb": "📘 ژەمە وشەی ڕۆژانە",
+          "de": "📘 Täglicher Wortschatz-Feed",
+          "es": "📘 Feed de vocabulario diario",
+          "fr": "📘 Flux de vocabulaire quotidien",
+          "hi": "📘 दैनिक शब्दावली फीड",
+          "it": "📘 Feed giornaliero del vocabolario",
+          "ja": "📘 語彙デイリーフィード",
+          "ko": "📘 일일 어휘 피드",
+          "nl": "📘 Dagelijkse woordenschatfeed",
+          "pl": "📘 Codzienna dawka słownictwa",
+          "pt-rBR": "📘 Feed diário de vocabulário",
+          "ru": "📘 Ежедневная подборка слов",
+          "tr": "📘 Günlük Kelime Akışı",
+          "vi": "📘 Nguồn từ vựng hàng ngày",
+          "zh": "📘 每日词汇推送"
         },
         "description": {
-          "en": "Learn 5 new words every day",
-          "tr": "Her gün 5 yeni kelime öğren",
-          "de": "Lerne jeden Tag 5 neue Wörter"
+          "en": "Want to learn English words by swiping, just like on TikTok?",
+          "ar": "📘 هل تريد تعلم الكلمات الإنجليزية عن طريق السحب، تماماً كما في تيك توك؟",
+          "ckb": "📘 دەتەوێت فێری وشەی ئینگلیزی بیت بە وەشاندن (سواپ)، ڕێک وەک تیکتۆک؟",
+          "de": "📘 Möchtest du englische Wörter durch Wischen lernen, genau wie auf TikTok?",
+          "es": "📘 ¿Quieres aprender palabras en inglés deslizando, al igual que en TikTok?",
+          "fr": "📘 Tu veux apprendre des mots d'anglais en balayant, comme sur TikTok ?",
+          "hi": "📘 क्या आप टिक톡 की तरह स्वाइप करके अंग्रेजी शब्द सीखना चाहते हैं?",
+          "it": "📘 Vuoi imparare parole in inglese scorrendo, proprio come su TikTok?",
+          "ja": "📘 TikTokのようにスワイプして英単語を学びたいですか？",
+          "ko": "📘 틱톡처럼 스와이프하면서 영어 단어를 배우고 싶으신가요?",
+          "nl": "📘 Wil je Engelse woorden leren door te swipen, net als op TikTok?",
+          "pl": "📘 Chcesz uczyć się angielskich słówek poprzez przesuwanie, zupełnie jak na TikToku?",
+          "pt-rBR": "📘 Quer aprender palavras em inglês deslizando, assim como no TikTok?",
+          "ru": "📘 Хочешь учить английские слова, свайпая, прямо как в TikTok?",
+          "tr": "📘 Tıpkı TikTok'taki gibi kaydırarak İngilizce kelimeler öğrenmek ister misin?",
+          "vi": "📘 Bạn có muốn học từ vựng tiếng Anh bằng cách lướt, giống như trên TikTok không?",
+          "zh": "📘 想通过像抖音（TikTok）那样滑动来学习英文单词吗？"
         },
         "cta": {
           "en": "Download",
+          "ar": "تنزيل",
+          "ckb": "داگرتن",
+          "de": "Herunterladen",
+          "es": "Descargar",
+          "fr": "Télécharger",
+          "hi": "डाउनलोड करें",
+          "it": "Scarica",
+          "ja": "ダウンロード",
+          "ko": "다운로드",
+          "nl": "Downloaden",
+          "pl": "Pobierz",
+          "pt-rBR": "Baixar",
+          "ru": "Скачать",
           "tr": "İndir",
-          "de": "Herunterladen"
+          "vi": "Tải xuống",
+          "zh": "下载"
         }
       },
       "media": {
@@ -32,6 +75,88 @@
       },
       "store": {
         "android": "market://details?id=com.lw.vocab"
+      },
+      "conditions": {
+        "countries": [],
+        "languages": [],
+        "connection": [
+          "WIFI",
+          "UNMETERED"
+        ],
+        "platforms": [
+          "android"
+        ]
+      }
+    },
+    {
+      "id": "com.lw.pichub",
+      "enabled": true,
+      "version": 1,
+      "texts": {
+        "title": {
+          "en": "✨ Stunning Wallpapers",
+          "ar": "✨ خلفيات مذهلة",
+          "ckb": "✨ وێنەی پاشبنەمای ناوازە",
+          "de": "✨ Atemberaubende Hintergrundbilder",
+          "es": "✨ Fondos de pantalla impresionantes",
+          "fr": "✨ Superbes fonds d'écran",
+          "hi": "✨ शानदार वॉलपेपर",
+          "it": "✨ Sfondi mozzafiato",
+          "ja": "✨ 素晴らしい壁紙",
+          "ko": "✨ 멋진 배경화면",
+          "nl": "✨ Prachtige achtergronden",
+          "pl": "✨ Oszałamiające tapety",
+          "pt-rBR": "✨ Papéis de parede impressionantes",
+          "ru": "✨ Потрясающие обои",
+          "tr": "✨ Harika Duvar Kağıtları",
+          "vi": "✨ Hình nền tuyệt đẹp",
+          "zh": "✨ 精美壁纸"
+        },
+        "description": {
+          "en": "Discover beautiful wallpapers for your phone.",
+          "ar": "اكتشف خلفيات جميلة لهاتفك.",
+          "ckb": "وێنەی پاشبنەمای جوان بۆ مۆبایلەکەت بدۆزەرەوە.",
+          "de": "Entdecke wunderschöne Hintergrundbilder für dein Handy.",
+          "es": "Descubre hermosos fondos de pantalla para tu teléfono.",
+          "fr": "Découvrez de magnifiques fonds d'écran pour votre téléphone.",
+          "hi": "अपने फ़ोन के लिए सुंदर वॉलपेपर खोजें।",
+          "it": "Scopri bellissimi sfondi per il tuo telefono.",
+          "ja": "あなたのスマートフォンにぴったりの美しい壁紙を見つけましょう。",
+          "ko": "휴대전화를 위한 아름다운 배경화면을 찾아보세요.",
+          "nl": "Ontdek prachtige achtergronden voor je telefoon.",
+          "pl": "Odkryj piękne tapety na swój telefon.",
+          "pt-rBR": "Descubra papéis de parede lindos para o seu celular.",
+          "ru": "Откройте для себя красивые обои для своего телефона.",
+          "tr": "Telefonun için birbirinden güzel duvar kağıtlarını keşfet.",
+          "vi": "Khám phá những hình nền đẹp cho điện thoại của bạn.",
+          "zh": "为您的手机发现精美壁纸。"
+        },
+        "cta": {
+          "en": "Download",
+          "ar": "تنزيل",
+          "ckb": "داگرتن",
+          "de": "Herunterladen",
+          "es": "Descargar",
+          "fr": "Télécharger",
+          "hi": "डाउनलोड करें",
+          "it": "Scarica",
+          "ja": "ダウンロード",
+          "ko": "다운로드",
+          "nl": "Downloaden",
+          "pl": "Pobierz",
+          "pt-rBR": "Baixar",
+          "ru": "Скачать",
+          "tr": "İndir",
+          "vi": "Tải xuống",
+          "zh": "下载"
+        }
+      },
+      "media": {
+        "type": "image",
+        "url": "https://github.com/lwappsandgames/lwappsandgames.github.io/blob/main/promotion/files/pichub/image.jpg?raw=true"
+      },
+      "store": {
+        "android": "market://details?id=com.lw.pichub"
       },
       "conditions": {
         "countries": [],

@@ -1,1 +1,21 @@
 "# lwappsandgames.github.io" 
+
+languages for promotion 
+
+"en"
+"ar"
+"ckb"
+"de"
+"es"
+"fr"
+"hi"
+"it"
+"ja"
+"ko"
+"nl"
+"pl"
+"pt-rBR"
+"ru"
+"tr"
+"vi"
+"zh"
