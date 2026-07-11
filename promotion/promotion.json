@@ -198,7 +198,7 @@
       "conditions": {
         "countries": [],
         "languages": [
-          "tr"
+          "TR-tr"
         ],
         "connection": [
           "WIFI",
@@ -237,7 +237,7 @@
       "conditions": {
         "countries": [],
         "languages": [
-          "Tr-tr"
+          "TR-tr"
         ],
         "packageNames": [
           "com.lw.yyu"
