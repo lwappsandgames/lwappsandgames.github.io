@@ -169,6 +169,87 @@
           "android"
         ]
       }
+    },
+    {
+      "id": "com.lw.yds",
+      "enabled": true,
+      "version": 1,
+      "texts": {
+        "title": {
+          "en": "✨ YDS Sınavı Yardımcınız",
+          "tr": "✨ YDS Sınavı Yardımcınız"
+        },
+        "description": {
+          "en": "Kelime kartları ve sorularla YDS sınavına hazırlanın.",
+          "tr": "Kelime kartları ve sorularla YDS sınavına hazırlanın."
+        },
+        "cta": {
+          "en": "İndir",
+          "tr": "İndir"
+        }
+      },
+      "media": {
+        "type": "image",
+        "url": "https://github.com/lwappsandgames/lwappsandgames.github.io/blob/main/promotion/files/yds/image.jpg?raw=true"
+      },
+      "store": {
+        "android": "market://details?id=com.lw.yds"
+      },
+      "conditions": {
+        "countries": [],
+        "languages": [
+          "tr"
+        ],
+        "connection": [
+          "WIFI",
+          "UNMETERED"
+        ],
+        "platforms": [
+          "android"
+        ]
+      }
+    },
+    {
+      "id": "com.drbicen.biyokimya",
+      "enabled": true,
+      "version": 1,
+      "texts": {
+        "title": {
+          "en": "✨ Biyokimya Sınavı Yardımcınız",
+          "tr": "✨ Biyokimya Sınavı Yardımcınız"
+        },
+        "description": {
+          "en": "Bilgi kartları ve sorularla Biyokimya",
+          "tr": "Bilgi kartları ve sorularla Biyokimya"
+        },
+        "cta": {
+          "en": "İndir",
+          "tr": "İndir"
+        }
+      },
+      "media": {
+        "type": "image",
+        "url": "https://github.com/lwappsandgames/lwappsandgames.github.io/blob/main/promotion/files/biyokimya/image.jpg?raw=true"
+      },
+      "store": {
+        "android": "market://details?id=com.drbicen.biyokimya"
+      },
+      "conditions": {
+        "countries": [],
+        "languages": [
+          "tr"
+        ],
+        "packageNames": [
+          "com.lw.yyu"
+        ],
+        "connection": [
+          "WIFI",
+          "UNMETERED"
+        ],
+        "platforms": [
+          "android"
+        ]
+      }
     }
   ]
 }
