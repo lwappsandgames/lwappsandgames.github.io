@@ -198,7 +198,11 @@
       "conditions": {
         "countries": [],
         "languages": [
-          "TR-tr","tr","tr-TR","TR-Tr","tr-rTR"
+          "TR-tr",
+          "tr",
+          "tr-TR",
+          "TR-Tr",
+          "tr-rTR"
         ],
         "connection": [
           "WIFI",
@@ -236,8 +240,85 @@
       },
       "conditions": {
         "countries": [],
-        "languages": [
+        "languages": [],
+        "packageNames": [
+          "com.lw.yyu"
         ],
+        "connection": [
+          "WIFI",
+          "UNMETERED"
+        ],
+        "platforms": [
+          "android"
+        ]
+      }
+    },
+    {
+      "id": "com.lw.kpss",
+      "enabled": true,
+      "version": 4,
+      "texts": {
+        "title": {
+          "en": "🎯 KPSS 2026 Asistanınız",
+          "tr": "🎯 KPSS 2026 Asistanınız"
+        },
+        "description": {
+          "en": "👉 Haritalar ve Göz Alıcı Özetlerle Hazırlanın",
+          "tr": "👉 Haritalar ve Göz Alıcı Özetlerle Hazırlanın"
+        },
+        "cta": {
+          "en": "Bi Bakalım",
+          "tr": "Bi Bakalım"
+        }
+      },
+      "media": {
+        "type": "image",
+        "url": "https://github.com/lwappsandgames/lwappsandgames.github.io/blob/main/promotion/files/kpss/image.jpg?raw=true"
+      },
+      "store": {
+        "android": "market://details?id=com.lw.kpss"
+      },
+      "conditions": {
+        "countries": [],
+        "languages": [],
+        "packageNames": [],
+        "connection": [
+          "WIFI",
+          "UNMETERED"
+        ],
+        "platforms": [
+          "android"
+        ]
+      }
+    },
+    {
+      "id": "com.lw.yyu",
+      "enabled": true,
+      "version": 8,
+      "texts": {
+        "title": {
+          "en": "✨ YYU Duyuru",
+          "tr": "✨ YYU Duyuru"
+        },
+        "description": {
+          "en": "Duyurular ve daha fazlası...",
+          "tr": "Duyurular ve daha fazlası..."
+        },
+        "cta": {
+          "en": "İndir",
+          "tr": "İndir"
+        }
+      },
+      "media": {
+        "type": "image",
+        "url": "https://github.com/lwappsandgames/lwappsandgames.github.io/blob/main/promotion/files/yyu/image.jpg?raw=true"
+      },
+      "store": {
+        "android": "market://details?id=com.lw.yyu"
+      },
+      "conditions": {
+        "countries": [],
+        "languages": [],
         "packageNames": [
           "com.lw.yyu"
         ],
